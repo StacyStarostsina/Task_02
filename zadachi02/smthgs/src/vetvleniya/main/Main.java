@@ -26,6 +26,22 @@ import smthgs.vetvleniya.Task6;
 import smthgs.vetvleniya.Task7;
 import smthgs.vetvleniya.Task8;
 import smthgs.vetvleniya.Task9;
+import smthgs.vetvleniya.Task26;
+import smthgs.vetvleniya.Task27;
+import smthgs.vetvleniya.Task28;
+import smthgs.vetvleniya.Task29;
+import smthgs.vetvleniya.Task30;
+import smthgs.vetvleniya.Task31;
+import smthgs.vetvleniya.Task32;
+import smthgs.vetvleniya.Task33;
+import smthgs.vetvleniya.Task34;
+import smthgs.vetvleniya.Task35;
+import smthgs.vetvleniya.Task36;
+import smthgs.vetvleniya.Task37;
+import smthgs.vetvleniya.Task38;
+import smthgs.vetvleniya.Task39;
+import smthgs.vetvleniya.Task40;
+
 
 public class Main {
 	public static void main(String[]args) {
@@ -54,6 +70,21 @@ public class Main {
 //		Task23.task();
 //		Task24.task();
 //		Task25.task();
+//		Task26.task();
+//		Task27.task();
+//		Task28.task();
+// 		Task29.task();
+// 		Task30.task();
+// 		Task31.task();
+// 		Task32.task();
+// 		Task33.task();
+// 		Task34.task();
+// 		Task35.task();
+// 		Task36.task();
+// 		Task37.task();
+// 		Task38.task();
+// 		Task39.task();
+// 		Task40.task();
 	}
 
 }
